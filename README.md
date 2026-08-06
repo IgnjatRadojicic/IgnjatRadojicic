@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="320" height="320" alt="stage-4" src="https://github.com/user-attachments/assets/c4d3d1b6-55c8-47a7-a5b2-f3db8779085f" />
+  <img width="320" height="320" alt="stage-4-removebg-preview" src="https://github.com/user-attachments/assets/b7cb33be-ccbf-466c-ac53-073062d508d5" />
 </p>
 
 
