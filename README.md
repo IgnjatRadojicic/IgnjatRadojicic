@@ -29,7 +29,7 @@ For about 9 years I have run a centralized game server architecture. Nine years 
 
 These days my interest sits squarely in backend engineering, architecture and the cloud.
 
-### 🌱 What I'm building
+### What I built so far
 
 **[Plantitask](https://github.com/IgnjatRadojicic/Plantitask)** · [plantitask.com](https://plantitask.com)
 A gamified SaaS task manager where finishing tasks grows virtual trees, and a share of future revenue plants real ones. ASP.NET Core, Blazor WASM, EF Core, PostgreSQL, Redis, SignalR and Hangfire on Clean Architecture. Self-hosted on Debian with Docker Compose and GitHub Actions CI/CD behind Cloudflare.
