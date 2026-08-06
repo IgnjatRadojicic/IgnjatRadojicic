@@ -38,7 +38,7 @@ A gamified SaaS task manager where finishing tasks grows virtual trees, and a sh
 **[PulseNet](https://github.com/IgnjatRadojicic/PulseNet)/** · [Demo](https://odp-c3-s-tim-22.vercel.app/)
 Reddit-style community platform built for a Distributed Systems course. I was technical lead on a team of four, owned the architecture and reviewed every pull request. TypeScript, Express 5, React 19 and PostgreSQL.
 
-**[NTL Detection](https://github.com/IgnjatRadojicic/NTLDetectionSystem) · [Demo](https://ntl-detection-system-iota.vercel.app/)**
+**[NTL Detection](https://github.com/IgnjatRadojicic/NTLDetectionSystem)** · [Demo](https://ntl-detection-system-iota.vercel.app/)**
 24-hour hackathon backend that finds electricity theft on a simulated Nigerian power grid. 3.2 million meter readings analysed with Dapper and SQL window functions, then classified with z-score outlier tests and physics-based loss modelling.
 
 ### 🔧 Working with
