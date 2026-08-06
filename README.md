@@ -2,8 +2,9 @@
 
 <p align="center">
   <em>I want to plant trees others can sit under.</em>
+  <img width="320" height="320" alt="stage-4" src="https://github.com/user-attachments/assets/c4d3d1b6-55c8-47a7-a5b2-f3db8779085f" />
 </p>
-<img width="320" height="320" alt="stage-4" src="https://github.com/user-attachments/assets/c4d3d1b6-55c8-47a7-a5b2-f3db8779085f" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#" />
