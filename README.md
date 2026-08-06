@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <img width="320" height="320" alt="stage-4-removebg-preview" src="https://github.com/user-attachments/assets/b7cb33be-ccbf-466c-ac53-073062d508d5" />
-</p>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8c6a8532-86ef-41fd-88f3-66468c2e54aa">
+    <img alt="tree" src="https://github.com/user-attachments/assets/2db10516-13f5-42a3-a232-c07186d32b0b" width="240">
+  </picture>
 
 
 <p align="center">
