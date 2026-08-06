@@ -35,10 +35,10 @@ These days my interest sits squarely in backend engineering, architecture and th
 **[Plantitask](https://github.com/IgnjatRadojicic/Plantitask)** · [plantitask.com](https://plantitask.com)
 A gamified SaaS task manager where finishing tasks grows virtual trees, and a share of future revenue plants real ones. ASP.NET Core, Blazor WASM, EF Core, PostgreSQL, Redis, SignalR and Hangfire on Clean Architecture. Self-hosted on Debian with Docker Compose and GitHub Actions CI/CD behind Cloudflare.
 
-**[PulseNet](https://github.com/IgnjatRadojicic)**
+**[PulseNet](https://github.com/IgnjatRadojicic/PulseNet)/** · [Demo](https://odp-c3-s-tim-22.vercel.app/)
 Reddit-style community platform built for a Distributed Systems course. I was technical lead on a team of four, owned the architecture and reviewed every pull request. TypeScript, Express 5, React 19 and PostgreSQL.
 
-**[NTL Detection](https://github.com/IgnjatRadojicic)**
+**[NTL Detection](https://github.com/IgnjatRadojicic/NTLDetectionSystem) · [Demo](https://ntl-detection-system-iota.vercel.app/)**
 24-hour hackathon backend that finds electricity theft on a simulated Nigerian power grid. 3.2 million meter readings analysed with Dapper and SQL window functions, then classified with z-score outlier tests and physics-based loss modelling.
 
 ### 🔧 Working with
